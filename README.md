@@ -9,7 +9,7 @@ Kim Dong Hui(Android) : wheeking@gmail.com
 Kim Dong Hyun(PHP & Back-End Server) : f4u1294@naver.com
 # How To Execute
 1. Python Crawler
--Setup Python Editor (ex. ATOM Editor, X-Code...) & ChromeDriver
+-Setup Python Editor (ex. ATOM Editor, X-Code...) & ChromeDriver\n
 -Open Python File & execute( ex. In case of ATOM, Cmd+i would work.)
 
 2.Android
